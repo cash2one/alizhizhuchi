@@ -707,7 +707,7 @@
 .partner_sec{text-align:center;width:100%;overflow:hidden;padding-top:85px;padding-bottom:55px;}
 .partner_sec h1{margin-bottom:100px;}
 .flexslider2{margin:0 auto;}
-.flexslider2 dl{float: left;width: 16.6%;
+.flexslider2 dl{float: left;width: 14.2%;
     border: 1px solid #ccc;
     border-left: 0;}
 .flexslider2 dl.shuoming{border-left: 1px solid #ccc;
@@ -730,6 +730,8 @@ position: relative;}
 .flexslider2 dl dd{text-align: center;
     line-height: 70px;
     border-top: 1px solid #ccc;}
+.flexslider2 dl dd:nth-child(4){line-height:35px;height:71px;}
+.flexslider2 dl.shuoming dd:nth-child(4){line-height:70px;height:auto;}
 .flex-prev,.flex-next{width:29px;height:24px;border:1px solid #dcdcdc;float:left;padding:0;/*background:#f2f2f2;*/transition: all .4s linear 0s;
     -webkit-transition: all .4s linear 0s;
     -moz-transition: all .4s linear 0s;
@@ -751,7 +753,7 @@ position: relative;}
 /*footer*/
 .container_inner{position:relative;left:50%;float:left;}
 .container_inner .footer-left{position:relative;float:left;right:50%;margin:0 30px;}
-.footer_con{background:#262626;padding-top:30px;padding-bottom:65px;width:100%;overflow:hidden;}
+.footer_con{background:#262626;padding-top:80px;padding-bottom:65px;width:100%;overflow:hidden;}
 .footer-nav li{line-height:24px;}
 .tell_list,.e-mail,.address,.link_list{margin-top:30px;font-size:14px;color:#707070;}
 .link_tit{font-size:16px;color:#ffffff;height:45px;line-height:45px;}
@@ -783,7 +785,7 @@ position: relative;}
     -webkit-animation-iteration-count: 1;
     animation-iteration-count: 1;
 }
-
+.footer-left .tell_list li {line-height:30px;}
 
 /*contact.html*/
 
@@ -1381,6 +1383,7 @@ textarea{width:100%;height:175px;border:1px solid #e1e1e1;color:#ababab;padding:
 
    .case_list2 ul li{margin-left:3%;width:29%;}
 	.container_inner .footer-left{float:none;}
+	.container_inner .footer-left .link2{height:0;}
 	.code_list{padding-left:0;}
 	.code_list ul li{float:left;width:28%;margin-right:8%;text-align:center;}
 	.code_list ul li:last-child{margin-right:0;}

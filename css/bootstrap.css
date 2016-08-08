@@ -3840,7 +3840,7 @@ tbody.collapse.in {
 		line-height: 50px
 	}
 	.navbar{height: 50px;}
-	.navbar .navbar-brand a,.navbar.nav2 .navbar-brand a{width: 120px;height:41px;display:block;background: url(../images/logo2.png) no-repeat center;background-size:120px 41px;top:5px;}
+	.navbar .navbar-brand a,.navbar.nav2 .navbar-brand a{width: 120px;height:41px;display:block;background: url(../images/logo.png) no-repeat center;background-size:120px 41px;top:5px;}
 	.menu_nav{display: block;}
 }
 
