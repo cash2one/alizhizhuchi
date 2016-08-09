@@ -1,5 +1,0 @@
-<?php exit;?>	2016-08-08 11:56:53	112.240.80.140	/bbs/user-sendactive.htm	0	 Error[2]: fsockopen(): , File: D:\wwwroot\zibofang\wwwroot\bbs\xiunophp\xn_send_mail.func.php, Line: 2675
-<?php exit;?>	2016-08-08 12:00:01	112.240.80.140	/bbs/user-sendactive.htm	0	 Error[2]: fsockopen(): , File: D:\wwwroot\zibofang\wwwroot\bbs\xiunophp\xn_send_mail.func.php, Line: 2675
-<?php exit;?>	2016-08-08 21:27:34	39.75.146.243	/bbs/admin/plugin-official_list.htm	1	<br> Error[2]: array_keys() expects parameter 1 to be array, null given, File: D:\wwwroot\zibofang\wwwroot\bbs\xiunophp\xiunophp.php, Line: 361
-<?php exit;?>	2016-08-08 21:27:34	39.75.146.243	/bbs/admin/plugin-official_list.htm	1	<br> Error[2]: array_slice() expects parameter 1 to be array, null given, File: D:\wwwroot\zibofang\wwwroot\bbs\xiunophp\xiunophp.php, Line: 362
-<?php exit;?>	2016-08-08 21:27:34	39.75.146.243	/bbs/admin/plugin-official_list.htm	1	<br> Error[2]: Invalid argument supplied for foreach(), File: D:\wwwroot\zibofang\wwwroot\bbs\xiunophp\xiunophp.php, Line: 364
