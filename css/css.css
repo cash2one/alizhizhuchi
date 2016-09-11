@@ -711,10 +711,10 @@
 .flexslider2 ul {margin:0;float:left;width:20%;}
 .flexslider2 ul li {border-top:1px solid #ccc;border-left:1px solid #ccc;line-height:50px;padding:10px 0;}
 .flexslider2 ul li:last-child{border-bottom:1px solid #ccc;}
-.flexslider2 ul li:nth-child(6){line-height:25px;}
+.flexslider2 ul li:nth-child(7){line-height:25px;}
 
 .flexslider2>ul li {background:#e6f5ff;font-weight:bold;}
-.flexslider2>ul li:nth-child(6){line-height:50px;}
+.flexslider2>ul li:nth-child(7){line-height:50px;}
 
 .flexslider2 a:last-child li {border-right:1px solid #ccc;color:#f00;}
 .flexslider2 a:hover ul{border: 1px solid #ffaf90;
